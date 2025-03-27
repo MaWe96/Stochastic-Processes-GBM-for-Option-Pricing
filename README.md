@@ -1,4 +1,4 @@
-This project explores stochastic process in financial markets by simulating stock price movements with geometric Brownian motion using MATLAB and pricing European options using the Black-Scholes model.
+This project explores stochastic process in financial markets by simulating stock price movements with geometric Brownian motion using MATLAB and pricing European and Asian options using the Black-Scholes model.
 
 Key features:
 - Customizable drift and volatility parameters.
